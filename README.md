@@ -20,6 +20,11 @@ The dataset provides a quarterly breakdown of:
 - **Pandas**: For data manipulation and cleaning.
 - **Matplotlib**: For creating visualizations.
 - **Seaborn**: For enhanced data visualization capabilities.
+### Results
+
+![Heatmap of Filled Jobs Difference](https://github.com/Shivamjha12/Data-analysis-on-Business-Employment-Data-using-python/blob/master/heatmap_filled_jobs_difference.png)
+![Percentage Difference in Filled Jobs and Earning by Industry](https://github.com/Shivamjha12/Data-analysis-on-Business-Employment-Data-using-python/blob/master/percentage_difference_dec_2022.png)
+![Trend of Filled job in graph representation](https://github.com/Shivamjha12/Data-analysis-on-Business-Employment-Data-using-python/blob/master/trend_filled_jobs.png)
 
 
 <hr />
